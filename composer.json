@@ -1,7 +1,7 @@
 {
-    "name": "pavel-mironchik/laravel-backup-panel",
+    "name": "BKF-DEV/laravel-backup-panel",
     "description": "An interface for Spatie Laravel Backup package",
-    "homepage": "https://github.com/pavel-mironchik/laravel-backup-panel",
+    "homepage": "https://github.com/BKF-DEV/laravel-backup-panel",
     "keywords": [
         "backup",
         "database",
@@ -11,12 +11,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Pavel Mironchik",
-            "email": "mironchikpavel@gmail.com"
+            "name": "BKF-DEV",
+            "email": "akaderb@gmail.com"
         }
     ],
     "require": {
-        "spatie/laravel-backup": "^6.7"
+        "spatie/laravel-backup": "^5.5"
     },
     "require-dev": {
         "orchestra/testbench": "^4.4",
